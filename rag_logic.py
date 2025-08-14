@@ -5,7 +5,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.llms import OpenAI
 from langchain_core.prompts.prompt import PromptTemplate
-from chromadb.config import Settings
+
 from typing import List
 from langchain.vectorstores import Chroma
 import chromadb
