@@ -17,7 +17,7 @@
 
 
 ##  معمارية النظام
-![Architecture](assets/architecture.png)
+![Architecture](assets/SemaRA_Arch.png)
 
 ##   جربه الحين!
 ```bash
