@@ -1,4 +1,4 @@
-# SemaRA – Arabic RAG Pipeline (Local-First)
+# SemaRA – Arabic RAG Pipeline 
 
 > Search Arabic PDFs with AI – fast, private, accurate.
 
